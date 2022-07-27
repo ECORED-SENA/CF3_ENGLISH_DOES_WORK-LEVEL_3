@@ -29,11 +29,11 @@
       .col-lg-4.bg33.p-5
         h4.text-center.mb-4 Práctica 3
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/5.png', alt='') 
-        a.anexo.mb-4.mb-lg-0(:href="obtenerLink('/downloads/Wordreference.docx')" target="_blank" type="application/pdf")
+        a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=mBGmCjxZua4 " target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-doc.svg")
+            img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p #[b Anexo.] INGLES PRONUNCIACION: LOS 3 SONIDOS DE LA VOCAL A  
+            p #[b Enlace web.] INGLES PRONUNCIACION: LOS 3 SONIDOS DE LA VOCAL A
 
     p(data-aos="fade-down").mb-5 Adicionalmente puede consultar a través de los diccionarios en línea la pronunciación que tienen para los diferentes conceptos que encuentra: 
 

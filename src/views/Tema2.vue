@@ -111,7 +111,7 @@
           .imagen-absolute1
             img(data-aos='zoom-in-up')(src='@/assets/curso/temas/img52.png', alt='')
         .col-lg-10
-          p(data-aos="fade-down").mb-0.p-3 Los tiempos presente simple y presente continuo pueden ser confundidos debido a ciertas similitudes que existen, dado que para hablar de una acción que están efectuando ahora se podría pensar en el uso del presente simple, pero el tiempo que se utiliza para esto es el presente continuo. Revise la forma afirmativa con el verbo to talk / hablar:
+          p(data-aos="fade-down").mb-0.p-3 Los tiempos presente simple y presente continuo pueden ser confundidos debido a ciertas similitudes que existen, dado que para hablar de una acción que están efectuando ahora se podría pensar en el uso del presente simple, pero el tiempo que se utiliza para esto es el presente continuo. Revise la forma afirmativa con el verbo <i>to talk</i> / hablar:
 
     TabsC.color-acento-botones.mb-5(data-aos="fade-left")
       .py-3.py-md-4(titulo="<i>Affirmative Simple Present</i>")
@@ -121,9 +121,9 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b Conjugación del Verbo]
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b Conjugación del Verbo]
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='4') #[b Singular]
@@ -142,7 +142,7 @@
                     td 3<sup>a</sup> persona: <i>He/She</i>
                     td.fst-italic talks
                     td.fst-italic with the teacher.
-                    td El/Ella habla con el profesor.
+                    td Él/ella habla con el profesor.
                   tr
                     td(colspan='4') #[b Plural]
                   tr
@@ -159,7 +159,7 @@
                     td 3<sup>a</sup> persona: <i>They</i>
                     td.fst-italic talk
                     td.fst-italic with the teacher.
-                    td Ellos/Ellas  hablan con el profesor.                                 
+                    td Ellos/ellas  hablan con el profesor.                                 
         
           .col-lg-4 
             img.img-a.img-t(src='@/assets/curso/temas/img53.png', alt='')
@@ -171,52 +171,52 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b Conjugación del Verbo]
-                    td.fst-italic.t1br #[b V. Aux (to be)]
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b V. Aux (#[i to be])]                    
+                    td.t1br #[b Verbo principal (gerundio)]
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='5') #[b Singular]
 
                   tr
                     td 1<sup>a</sup> persona: <i>I</i>
-                    td.fst-italic talking
-                    td.fst-italic am                   
+                    td.fst-italic Am 
+                    td.fst-italic talking          
                     td.fst-italic with the teacher.
                     td Yo estoy hablando con el profesor.
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
-                    td.fst-italic talking
-                    td.fst-italic are                   
+                    td.fst-italic Are
+                    td.fst-italic talking           
                     td.fst-italic with the teacher.
                     td Tú estás hablando con el profesor.
                   tr
                     td 3<sup>a</sup> persona: <i>He/She</i>
-                    td.fst-italic talking
-                    td.fst-italic is                   
+                    td.fst-italic Is 
+                    td.fst-italic talking          
                     td.fst-italic with the teacher.
-                    td El/Ella está hablando con el profesor.
+                    td Él/ella está hablando con el profesor.
                   tr
                     td(colspan='5') #[b Plural]
                   tr
                     td 1<sup>a</sup> persona: <i>We</i>
-                    td.fst-italic talking
-                    td.fst-italic are                   
+                    td.fst-italic Are
+                    td.fst-italic talking           
                     td.fst-italic with the teacher.
                     td Nosotros estamos hablando con el profesor.
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
-                    td.fst-italic talking
-                    td.fst-italic are                   
+                    td.fst-italic Are
+                    td.fst-italic talking           
                     td.fst-italic with the teacher.
                     td Ustedes están hablando con el profesor.   
                   tr
                     td 3<sup>a</sup> persona: <i>They</i>
-                    td.fst-italic talking
-                    td.fst-italic are                   
+                    td.fst-italic Are
+                    td.fst-italic talking           
                     td.fst-italic with the teacher.
-                    td Ellos/Ellas  están hablando con el profesor.
+                    td Ellos/ellas  están hablando con el profesor.
 
     Separador 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -236,11 +236,11 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b V. Aux (to do)]
-                    td.fst-italic.t1br #[b Negación]
-                    td.fst-italic.t1br #[b Verbo principal] 
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b V. Aux (#[i to do])]
+                    td.t1br #[b Negación]
+                    td.t1br #[b Verbo principal] 
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='6') #[b Singular]
@@ -265,7 +265,7 @@
                     td.fst-italic not               
                     td.fst-italic talk                  
                     td.fst-italic with the teacher.
-                    td El/Ella no habla con el profesor.
+                    td Él/ella no habla con el profesor.
                   tr
                     td(colspan='6') #[b Plural]
                   tr
@@ -288,7 +288,7 @@
                     td.fst-italic not
                     td.fst-italic talk                   
                     td.fst-italic with the teacher.
-                    td Ellos/Ellas  no hablan con el profesor.
+                    td Ellos/ellas  no hablan con el profesor.
 
       .py-3.py-md-4.bg18(titulo="<i>Negative Present Continuous</i>")
         .row.justify-content-center.align-items-center.p-3
@@ -297,11 +297,11 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b V. Aux (to be)]
-                    td.fst-italic.t1br #[b Negación]
-                    td.fst-italic.t1br #[b Verbo principal] 
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b V. Aux (#[i to be])]
+                    td.t1br #[b Negación]
+                    td.t1br #[b Verbo principal (gerundio)] 
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='6') #[b Singular]
@@ -310,46 +310,47 @@
                     td 1<sup>a</sup> persona: <i>I</i>
                     td.fst-italic am
                     td.fst-italic not               
-                    td.fst-italic talk                  
+                    td.fst-italic talking               
                     td.fst-italic with the teacher.
-                    td Yo no hablo con el profesor.
+                    td Yo no estoy hablando con el profesor.
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
                     td.fst-italic are
                     td.fst-italic not                
-                    td.fst-italic talk                   
+                    td.fst-italic talking               
                     td.fst-italic with the teacher.
-                    td Tú no hablas con el profesor.
+                    td Tú no estás hablando con el profesor.
                   tr
                     td 3<sup>a</sup> persona: <i>He/She</i>
                     td.fst-italic is
                     td.fst-italic not               
-                    td.fst-italic talk                  
+                    td.fst-italic talking    
                     td.fst-italic with the teacher.
-                    td El/Ella no habla con el profesor.
+                    td Él/ella no está hablando con el profesor.
+
                   tr
                     td(colspan='6') #[b Plural]
                   tr
                     td 1<sup>a</sup> persona: <i>We</i>
                     td.fst-italic are
                     td.fst-italic not
-                    td.fst-italic talk                   
+                    td.fst-italic talking  
                     td.fst-italic with the teacher.
-                    td Nosotros no hablamos con el profesor.
+                    td Nosotros no estamos hablando con el profesor.
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
                     td.fst-italic are
                     td.fst-italic not
-                    td.fst-italic talk                   
+                    td.fst-italic talking
                     td.fst-italic with the teacher.
-                    td Ustedes no hablan con el profesor.  
+                    td Ustedes no están hablando con el profesor.
                   tr
                     td 3<sup>a</sup> persona: <i>They</i>
                     td.fst-italic are
                     td.fst-italic not
-                    td.fst-italic talk                   
+                    td.fst-italic talking
                     td.fst-italic with the teacher.
-                    td Ellos/Ellas  no hablan con el profesor. 
+                    td Ellos/ellas no están hablando con el profesor.
 
     Separador 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -369,32 +370,32 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b V. Aux (to do)]
-                    td.fst-italic.t1br #[b Sujeto]
-                    td.fst-italic.t1br #[b Verbo principal] 
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b V. Aux (#[i to do])]
+                    td.t1br #[b Sujeto]
+                    td.t1br #[b Verbo principal] 
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='6') #[b Singular]
 
                   tr
                     td 1<sup>a</sup> persona: <i>I</i>
-                    td.fst-italic do
+                    td.fst-italic Do
                     td.fst-italic I
                     td.fst-italic talk                  
                     td.fst-italic with the teacher?
                     td ¿Hablo yo con el profesor?
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
-                    td.fst-italic do
+                    td.fst-italic Do
                     td.fst-italic you      
                     td.fst-italic talk                   
                     td.fst-italic with the teacher?
                     td ¿Hablas tú con el profesor?
                   tr
                     td 3<sup>a</sup> persona: <i>He/She</i>
-                    td.fst-italic does
+                    td.fst-italic Does
                     td.fst-italic he/she             
                     td.fst-italic talk                  
                     td.fst-italic with the teacher?
@@ -403,21 +404,21 @@
                     td(colspan='6') #[b Plural]
                   tr
                     td 1<sup>a</sup> persona: <i>We</i>
-                    td.fst-italic do
+                    td.fst-italic Do
                     td.fst-italic we
                     td.fst-italic talk                   
                     td.fst-italic with the teacher?
                     td ¿Hablamos nosotros con el profesor?
                   tr
                     td 2<sup>a</sup> persona: <i>You</i>
-                    td.fst-italic do
+                    td.fst-italic Do
                     td.fst-italic you
                     td.fst-italic talk                   
                     td.fst-italic with the teacher?
                     td ¿Hablan ustedes con el profesor?
                   tr
                     td 3<sup>a</sup> persona: <i>They</i>
-                    td.fst-italic do
+                    td.fst-italic Do
                     td.fst-italic they
                     td.fst-italic talk                   
                     td.fst-italic with the teacher?
@@ -430,11 +431,11 @@
               table.text-center.w-100
                 tbody
                   tr.bgt1header
-                    td.fst-italic.t1br #[b Persona gramatical del sujeto]
-                    td.fst-italic.t1br #[b V. Aux (to be)]
-                    td.fst-italic.t1br #[b Sujeto]
-                    td.fst-italic.t1br #[b Verbo principal] 
-                    td.fst-italic.t1br #[b Complemento]
+                    td.t1br #[b Persona gramatical del sujeto]
+                    td.t1br #[b V. Aux (#[i to be])]
+                    td.t1br #[b Sujeto]
+                    td.t1br #[b V. principal al (gerundio)] 
+                    td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr
                     td(colspan='6') #[b Singular]

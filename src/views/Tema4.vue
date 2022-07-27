@@ -51,7 +51,7 @@
                 .imagen-absolute4
                   img(data-aos='zoom-in-up')(src='@/assets/curso/temas/img64.png', alt='')
 
-            p(data-aos="fade-down").text-center.pt-2 #[b En este caso, modifica el verbo “cries”.] 
+            p(data-aos="fade-down").text-center.pt-2 #[b En este caso, modifica el verbo “#[i cries]”.] 
 
     Separador 
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -182,7 +182,7 @@
               h5.r Delante del verbo
               p En el caso de los adverbios de frecuencia, se colocan delante del verbo. Su estructura es la siguiente:
               p 
-                span #[b Sujeto] 
+                span #[b Sujeto ] 
                 span + 
                 span.blu #[b Adverbio ]
                 span + 
@@ -204,8 +204,8 @@
                   
           .row.justify-content-center.align-items-center
             .col-11
-              h5.r Después del verbo to be
-              p Si el adverbio de frecuencia está acompañando al verbo to be, se colocará después de este. 
+              h5.r Después del verbo #[i to be]
+              p Si el adverbio de frecuencia está acompañando al verbo #[i to be], se colocará después de este. 
 
               h5.text-center #[i For example]
               .row.justify-content-center.align-items-center.mb-4
@@ -249,7 +249,7 @@
           .row.justify-content-center.align-items-center
             .col-11
               h5.r Adverbios al principio 
-              p En cuanto a los adverbios de frecuencia: usually, frequently, sometimes, often y occasionally, debe señalarse que #[b pueden ser ubicados al principio o al final de la frase u oración.]
+              p En cuanto a los adverbios de frecuencia: #[i usually, frequently, sometimes, often y occasionally], debe señalarse que #[b pueden ser ubicados al principio o al final de la frase u oración.]
 
               h5.text-center #[i For example]
               .row.justify-content-center.align-items-center.mb-4
@@ -303,7 +303,7 @@
             )            
             p(data-aos="fade-down") De vez en cuando, cantas en la ducha.
 
-    p(data-aos="fade-down").mb-5 Además, se presentan otras expresiones de frecuencia, como: every day, monthly, once, twice a week, every month, entre otras. De allí que puede preguntarse “How often” y utilizar la expresión de frecuencia requerida por la situación. Revise los diálogos:
+    p(data-aos="fade-down").mb-5 Además, se presentan otras expresiones de frecuencia, como: #[i every day, monthly, once, twice a week, every month], entre otras. De allí que puede preguntarse “#[i How often]” y utilizar la expresión de frecuencia requerida por la situación. Revise los diálogos:
 
     .row.justify-content-center.align-items-center
       .col-lg-4 

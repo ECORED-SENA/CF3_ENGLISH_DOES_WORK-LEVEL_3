@@ -22,7 +22,7 @@
 
     Separador 
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.1  Reglas a cumplir con los conectores de secuencia
+      h2 1.1  Rutina diaria de actividades en casa
     p(data-aos="fade-down").mb-5 A continuación, se relaciona la rutina diaria, a través de una chica llamada Claire. Escuche cada audio, repita y memorice parte del vocabulario.
     .bg14
       PasosB.color-primario.mb-5(data-aos="fade-right")
@@ -365,7 +365,7 @@
 
     Separador 
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 1.2   Rutina diaria de trabajo en la oficina 
+      h2 1.2 Rutina diaria de trabajo en la oficina 
     p(data-aos="fade-down").mb-5 Ahora, verá la rutina diaria de trabajo en la oficina a partir de un personaje llamado Frank. Lea, escuche y memorice el vocabulario para, enseguida, formalizar algunas preguntas orientadoras:  
     .bg15    
       PasosB.color-primario.mb-5(data-aos="fade-right")
@@ -721,7 +721,7 @@ export default {
         textoIng:
           'After that, I get dressed and go down stairs to prepare breakfast. I eat breakfast at 8:00 a.m.',
         textoEsp:
-          'MDespués, me visto y voy abajo a preparar el desayuno. Yo tomo el desayuno a las 8:00 a.m.',
+          'Después, me visto y voy abajo a preparar el desayuno. Yo tomo el desayuno a las 8:00 a.m.',
         audio: require('@/assets/curso/audio/1/2.mp3'),
       },
     ],

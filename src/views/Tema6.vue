@@ -32,7 +32,7 @@
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")
           .row.justify-content-center.align-items-center(titulo="En cuanto a su posición")
             .col-11.bgwhite.p-4
-              p Con respecto a su posición en una oración, los conectores gramaticales pueden estar al inicio de la oración, al final o entre las dos ideas que se quiere unir. De manera que la decisión sobre el lugar que ocupa el conector en la oración va a depender del estilo de quien escribe. No obstante, hay algunos conectores que, por sus características, se recomienda que vayan siempre en un lugar determinado en la oración o frase; por ejemplo, cuando se hace una lista (first, second, entre otros), es recomendable colocar el conector al inicio de cada oración.  
+              p Con respecto a su posición en una oración, los conectores gramaticales pueden estar al inicio de la oración, al final o entre las dos ideas que se quiere unir. De manera que la decisión sobre el lugar que ocupa el conector en la oración va a depender del estilo de quien escribe. No obstante, hay algunos conectores que, por sus características, se recomienda que vayan siempre en un lugar determinado en la oración o frase; por ejemplo, cuando se hace una lista (#[i first, second], entre otros), es recomendable colocar el conector al inicio de cada oración.  
           .row.justify-content-center.align-items-center(titulo="Respecto a sustantivos y verbos")
             .col-11.bgwhite.p-4
               p Generalmente, después de un conector, se ubica un sustantivo o un verbo en gerundio.

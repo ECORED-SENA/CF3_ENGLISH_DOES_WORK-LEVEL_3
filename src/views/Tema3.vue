@@ -5,10 +5,10 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Usos de <i>when y while</i>
+      h1 Usos de <i>when</i> y <i>while</i>
     p(data-aos="fade-down") En el idioma inglés, existen ciertas palabras que se utilizan para unir o enlazar entre sí frases u oraciones, es decir, son conjunciones, las cuales sirven para dar más coherencia y significado a las ideas que se quieren expresar. Entre ellas, las conjunciones when y while, las cuales se utilizan en forma regular al escribir o hablar en idioma inglés. 
     .bg21    
-      h5(data-aos="fade-down").text-center #[b For example:]
+      h5(data-aos="fade-down").text-center #[b #[i For example:]]
       .row.justify-content-center.align-items-center.my-5
         .col-lg-6(data-aos="fade-right")
           .tarjeta.position-relative.rounded-0.bg19.p-3
@@ -53,8 +53,8 @@
               h5.r #[i Uso de when + ]
               p La palabra #[i when] es una conjunción, es decir, tiene la función de enlazar frases entre sí. Su significado en español es #[b cuando] y se usa porque una acción se ve interrumpida.
 
-              p En líneas generales, la conjunción when se utiliza con las acciones que se cruzan o que interrumpen la primera acción, la acción continua o la acción que estaba en progreso. De esta manera, when se puede usar para acciones puntuales y esta acción se escribe en pasado simple 
-              h5(data-aos="fade-down").text-center.mb-4 #[b For example:] 
+              p En líneas generales, la conjunción when se utiliza con las acciones que se cruzan o que interrumpen la primera acción, la acción continua o la acción que estaba en progreso. De esta manera, when se puede usar para acciones puntuales y esta acción se escribe en pasado simple. 
+              h5(data-aos="fade-down").text-center.mb-4 #[b #[i For example:]] 
               .row.justify-content-center.align-items-center.mb-4
                 .col-lg-3
                   img.img-a.img-t(src='@/assets/curso/temas/img58.png', alt='')
@@ -85,7 +85,7 @@
 
               p Básicamente, se usa con la primera acción o la acción que está en progreso, o la acción continua, pues se requiere poner énfasis en la duración de esta acción. De manera que esta acción (o verbo) se escribe en tiempo pasado continuo.
 
-              h5(data-aos="fade-down").text-center.mb-4 #[b For example:] 
+              h5(data-aos="fade-down").text-center.mb-4 #[b #[i For example:]] 
               .row.justify-content-center.align-items-center.mb-4
                 .col-lg-3
                   img.img-a.img-t(src='@/assets/curso/temas/img60.png', alt='')

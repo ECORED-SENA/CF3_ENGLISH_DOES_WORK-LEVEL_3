@@ -28,7 +28,7 @@
       .col-lg-8.bg24.p-5.bradius(data-aos="fade-left")     
         SlyderF(columnas="col-lg-6")(data-aos="fade-right")
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Now / ahora]]
+            p.text-center #[b #[i Now] / ahora]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img84.png' alt='')
@@ -41,7 +41,7 @@
             p.mb-0.text-center Vamos ahora.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Today / hoy]]
+            p.text-center #[b #[i Today] / hoy]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img85.png' alt='')
@@ -54,7 +54,7 @@
             p.mb-0.text-center Hoy es Día de las Madres.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Tomorrow / mañana]]
+            p.text-center #[b #[i Tomorrow] / mañana ]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img86.png' alt='')
@@ -67,7 +67,7 @@
             p.mb-0.text-center Tú vas a viajar mañana.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Tonight / esta noche]]
+            p.text-center #[b #[i Tonight] / esta noche ]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img87.png' alt='')
@@ -80,7 +80,7 @@
             p.mb-0.text-center Felix vendrá esta noche.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Yesterday / ayer]]
+            p.text-center #[b #[i Yesterday] / ayer ]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img88.png' alt='')
@@ -93,7 +93,7 @@
             p.mb-0.text-center Ayer, fuiste a la discoteca.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Later / luego]]
+            p.text-center #[b #[i Later] / luego ]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img89.png' alt='')
@@ -106,7 +106,7 @@
             p.mb-0.text-center Te llamaré más tarde.
 
           .crd.crd--100.tarjeta.color-primario.p-4.bg-white
-            p.text-center #[b #[i Last month / el mes pasado]]
+            p.text-center #[b #[i Last month] / el mes pasado ]
             .row.justify-content-center.mb-3
               .col-8
                 img.img-a.img-t(src='@/assets/curso/temas/img90.png' alt='')
@@ -128,12 +128,12 @@
     Separador 
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 5.2 Adverbios de duración
-    p(data-aos="fade-down").mb-5 Son los adverbios que indican durante cuánto tiempo sucede algo. Se ubican al final de la frase. Entre ellos están: for y since:
+    p(data-aos="fade-down").mb-5 Son los adverbios que indican durante cuánto tiempo sucede algo. Se ubican al final de la frase. Entre ellos están: #[i for] y #[i since]:
     .row.justify-content-center.align-items-stretch
       .col-lg-6.up.bg27.p-5(data-aos="fade-left")
         p(data-aos="fade-down").my-4 * Cuando se utiliza 
           span.r #[b #[i for]], 
-          span este debe ir seguido por una expresión que aluda a un periodo de tiempo (a year, a week, a month, a moment, entre otros). #[b For example:]
+          span este debe ir seguido por una expresión que aluda a un periodo de tiempo (#[i a year, a week, a month, a moment], entre otros). #[b #[i For example:]]
         .bg29.p-5.position-relative
           .bg-white.bradius.py-5.px-3
             .row.justify-content-end.align-items-center
@@ -209,7 +209,7 @@
       .col-lg-6.up.bg28.p-5(data-aos="fade-right")
         p(data-aos="fade-down").my-4.mb-5 * Cuando se utiliza 
           span.r #[b #[i since]], 
-          span este debe ir seguido por una expresión que aluda a un momento concreto en el tiempo. #[b For example:]
+          span este debe ir seguido por una expresión que aluda a un momento concreto en el tiempo. #[b #[i For example:]]
         .bg29.p-5.pe-5.position-relative
           .bg-white.bradius.py-5.px-3
             .row.justify-content-start.align-items-center
@@ -236,11 +236,11 @@
                   .row.justify-content-start.align-items-center
                     .col-lg-10
                         TarjetaAudio.color-acento-contenido.bg-white.my-3(
-                          texto="<i>Dylan hasn´t been back to work since January.</i>"
+                          texto="<i>Dylan hasn't been back to work since January.</i>"
                           :audio="require('@/assets/curso/audio/5.2/11.mp3')"
                           @audio-hover="mostrarIndicadorTarjetaAudio = false"
                         )                    
-                        p Dylan no ha vuelto a trabajar desde Enero.
+                        p Dylan no ha vuelto a trabajar desde enero.
 
                   .row.justify-content-start.align-items-center
                     .col-lg-10
