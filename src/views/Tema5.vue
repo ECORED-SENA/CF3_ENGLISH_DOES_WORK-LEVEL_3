@@ -218,7 +218,7 @@
                   .row.justify-content-start.align-items-center
                     .col-lg-10
                         TarjetaAudio.color-acento-contenido.bg-white.my-3(
-                          texto="<i>Betty has been living in that house since 2012.FALTA AUDIO</i>"
+                          texto="<i>Betty has been living in that house since 2012.</i>"
                           :audio="require('@/assets/curso/audio/5.2/1.mp3')"
                           @audio-hover="mostrarIndicadorTarjetaAudio = false"
                         )                    
@@ -282,20 +282,20 @@ export default {
           personaje: 'Matthew',
           textoIng: 'I’m going to prepare it ***.',
           textoEsp: 'voy a prepararlo ***.',
-          audio: require('@/assets/curso/audio/5/a2/1.mp3'),
+          audio: require('@/assets/curso/audio/5/a2/2.mp3'),
           palabra: 'now',
         },
         {
           personaje: 'Paula',
           textoIng: 'When is Mike’s graduation?',
           textoEsp: '¿Cuándo es la graduación de Mike?',
-          audio: require('@/assets/curso/audio/5/a2/2.mp3'),
+          audio: require('@/assets/curso/audio/5/a2/3.mp3'),
         },
         {
           personaje: 'Matthew',
           textoIng: '*** is Mike’s graduation.',
           textoEsp: '*** es la graduación de Mike.',
-          audio: require('@/assets/curso/audio/5/a2/2.mp3'),
+          audio: require('@/assets/curso/audio/5/a2/4.mp3'),
           palabra: 'Today',
         },
       ],

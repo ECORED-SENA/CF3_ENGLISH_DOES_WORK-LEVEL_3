@@ -15,7 +15,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-4               
             Audio.color-acento-contenido.audio--big.mx-3(
-              :audio="require('@/assets/curso/audio/7/1.mp4')"
+              :audio="require('@/assets/curso/audio/7/1.mp3')"
               @audio-hover="mostrarIndicadorAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorAudio")
@@ -25,7 +25,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-4               
             Audio.color-acento-contenido.audio--big.mx-3(
-              :audio="require('@/assets/curso/audio/7/2.mp4')")
+              :audio="require('@/assets/curso/audio/7/2.mp3')")
       .col-lg-4.bg33.p-5
         h4.text-center.mb-4 Práctica 3
         img.img-a.img-t.mb-4(data-aos="zoom-in")(src='@/assets/curso/temas/5.png', alt='') 

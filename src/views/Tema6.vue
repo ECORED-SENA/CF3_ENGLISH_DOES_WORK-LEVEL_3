@@ -277,8 +277,8 @@
               )            
               p.mb-0 Tú eres muy paciente, por lo tanto te elegimos a ti para cuidar al bebé.
               TarjetaAudio.color-acento-contenido.bg-white.mb-3(
-                texto="She has trained hard, consequently, she deserves to participate in the competition.FALTA AUDIO"
-                :audio="require('@/assets/curso/audio/6/1.mp3')"
+                texto="She has trained hard, consequently, she deserves to participate in the competition."
+                :audio="require('@/assets/curso/audio/6/41.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )            
               p.mb-0 Ella ha entrenado duro, en consecuencia, merece participar en la competencia.
@@ -404,7 +404,7 @@
               p.mb-0 Obviamente, tú puedes hacer el video con tu teléfono inteligente.
               TarjetaAudio.color-acento-contenido.bg-white.mb-3(
                 texto="Definitely, you should participate in the contest."
-                :audio="require('@/assets/curso/audio/6/12.mp3')"
+                :audio="require('@/assets/curso/audio/6/12_1.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )            
               p.mb-0 Definitivamente, tú debes participar en el concurso.
