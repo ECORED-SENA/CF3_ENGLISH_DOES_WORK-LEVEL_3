@@ -100,7 +100,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Usos de <i>when</i> y <i>while</i>',
+        titulo: 'Usos de <em>when</em> y <i>while</i>',
         desarrolloContenidos: true,
       },
       {

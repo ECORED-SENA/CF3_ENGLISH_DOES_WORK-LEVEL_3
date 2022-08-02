@@ -194,7 +194,7 @@
                 :audio="require('@/assets/curso/audio/1/p/13.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
-                a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal13 = true")
+                a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal13_1 = true")
                   span #[b Answer]
 
       ModalA(:abrir-modal.sync="modal1")
@@ -329,7 +329,7 @@
         
           .col-md-6
             img.img-a.img-t(src='@/assets/curso/temas/img23.png', alt='') 
-      ModalA(:abrir-modal.sync="modal13")
+      ModalA(:abrir-modal.sync="modal13_1")
         .row.justify-content-center.align-items-center
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
@@ -548,7 +548,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img11.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img35.png', alt='') 
         ModalA(:abrir-modal.sync="modal14")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -559,7 +559,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img13.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img36.png', alt='') 
         ModalA(:abrir-modal.sync="modal15")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -570,7 +570,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img14.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img37.png', alt='') 
         ModalA(:abrir-modal.sync="modal16")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -581,7 +581,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img15.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img38.png', alt='') 
         ModalA(:abrir-modal.sync="modal17")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -592,7 +592,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img16.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img39.png', alt='')
         ModalA(:abrir-modal.sync="modal18")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -603,7 +603,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img17.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img40.png', alt='')
         ModalA(:abrir-modal.sync="modal19")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -614,7 +614,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img18.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img41.png', alt='') 
         ModalA(:abrir-modal.sync="modal20")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -625,7 +625,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img19.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img42.png', alt='')
         ModalA(:abrir-modal.sync="modal21")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -636,7 +636,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img20.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img43.png', alt='')
         ModalA(:abrir-modal.sync="modal22")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -647,7 +647,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img21.png', alt='') 
+              img.img-a.img-t(src='@/assets/curso/temas/img44.png', alt='') 
         ModalA(:abrir-modal.sync="modal23")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -658,7 +658,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img22.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img45.png', alt='')
         ModalA(:abrir-modal.sync="modal24")
           .row.justify-content-center.align-items-center
             .col-md-6
@@ -669,7 +669,7 @@
               )
           
             .col-md-6
-              img.img-a.img-t(src='@/assets/curso/temas/img23.png', alt='')
+              img.img-a.img-t(src='@/assets/curso/temas/img46.png', alt='')
 
 </template>
 
@@ -695,6 +695,7 @@ export default {
     modal11: false,
     modal12: false,
     modal13: false,
+    modal13_1: false,
     modal14: false,
     modal15: false,
     modal16: false,
