@@ -202,7 +202,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>Every morning, Claire wakes up at 7:00. </i>"
-              :audio="require('@/assets/curso/audio/1/p/1.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/14.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -213,7 +213,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>She gets up at 7:00.</i>"
-              :audio="require('@/assets/curso/audio/1/p/2.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/15.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -224,7 +224,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>She goes to the bathroom, brushes her teeth, and takes a shower.</i>"
-              :audio="require('@/assets/curso/audio/1/p/3.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/16.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -235,7 +235,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i> Claire prepares breakfast.</i>"
-              :audio="require('@/assets/curso/audio/1/p/4.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/17.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -246,7 +246,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>She eats breakfast at 8:00 a.m.</i>"
-              :audio="require('@/assets/curso/audio/1/p/5.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/18.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -257,7 +257,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>After breakfast, she washes the dishes, cleans the house and prepares the lunch.</i>"
-              :audio="require('@/assets/curso/audio/1/p/6.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/19.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -268,7 +268,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>No, she doesn’t like to prepare junk food. She likes to prepare healthy food.</i>"
-              :audio="require('@/assets/curso/audio/1/p/7.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/20.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -279,7 +279,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>At noon, she has lunch with her family.</i>"
-              :audio="require('@/assets/curso/audio/1/p/8.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/21.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -290,7 +290,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>In the afternoon, she goes to the gym to exercise.</i>"
-              :audio="require('@/assets/curso/audio/1/p/9.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/22.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -301,7 +301,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>She goes to the laundry on Saturday morning.</i>"
-              :audio="require('@/assets/curso/audio/1/p/10.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/23.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -312,7 +312,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>They have dinner at around 7:00 p.m.</i>"
-              :audio="require('@/assets/curso/audio/1/p/11.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/24.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -323,7 +323,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>After dinner, they watch TV until ten o’clock.</i>"
-              :audio="require('@/assets/curso/audio/1/p/12.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/25.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -334,7 +334,7 @@
           .col-md-6
             TarjetaAudio.color-acento-contenido.bg-white.my-3(
               texto="<i>She goes to bed at ten o’clock.</i>"
-              :audio="require('@/assets/curso/audio/1/p/13.mp3')"
+              :audio="require('@/assets/curso/audio/1/p/26.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
         
@@ -443,7 +443,7 @@
             .crd.crd--100.tarjeta.bg.bg--14
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What time does Frank wake up?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/1.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/27.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal13 = true")
@@ -452,7 +452,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--15
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What does he do when he gets up in the morning?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/2.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/28.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal14 = true")
@@ -460,7 +460,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--16
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>How does he go to work?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/3.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/29.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal15 = true")
@@ -468,7 +468,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--17
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>Where does Frank work?</i>"
-                :audio="require('@/assets/curso/audio/1/p/4.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/30.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal16 = true")
@@ -476,7 +476,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--18
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What does he do in the office?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/5.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/31.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal17 = true")
@@ -484,7 +484,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--19
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What time does Frank have lunch?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/6.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/32.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal18 = true")
@@ -492,7 +492,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--20
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>Where does Frank take lunch?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/7.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/33.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal19 = true")
@@ -500,7 +500,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--21
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>When does Frank get off work?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/8.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/34.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal20 = true")
@@ -508,7 +508,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--22
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What does Frank do when he gets off work?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/9.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/35.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal21 = true")
@@ -516,7 +516,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--23
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What does he do after that?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/10.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/36.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal22 = true")
@@ -524,7 +524,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--24
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What time does Frank have dinner?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/11.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/37.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal23 = true")
@@ -532,7 +532,7 @@
             .crd.crd--100.tarjeta.p-4.bg.bg--25
               TarjetaAudio.color-acento-contenido.bg-white.my-3.bot(
                 texto="<i>What time does Frank go to sleep?</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/12.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/38.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
                 a.boton.abot.color-acento-botones.indicador__container.text-white(@click="modal24 = true")
@@ -543,7 +543,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>Frank always wakes up at 6:00 o’clock in the morning.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/1.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/39.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -554,7 +554,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He takes a shower and puts his clothes on. He doesn’t have breakfast.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/2.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/40.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -565,7 +565,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He goes to work by bus.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/3.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/41.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -576,7 +576,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He works in an office.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/4.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/42.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -587,7 +587,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>There, he writes letters and he must sort files and puts them in their folders.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/5.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/43.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -598,7 +598,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He has lunch at noon.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/6.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/44.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -609,7 +609,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He has lunch in the cafeteria with his colleagues.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/7.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/45.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -620,7 +620,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>Frank gets off work at 4:00 p.m.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/8.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/46.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -631,7 +631,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He meets his friends at the corner bar and drinks some beers there.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/9.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/47.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -642,7 +642,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He goes back his home.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/10.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/48.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -653,7 +653,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>He has dinner around 8:00 p.m.</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/11.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/49.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
@@ -664,7 +664,7 @@
             .col-md-6
               TarjetaAudio.color-acento-contenido.bg-white.my-3(
                 texto="<i>Frank goes to sleep around 11:00 p.m., after watching some movies on Netflix</i>"
-                :audio="require('@/assets/curso/audio/1.2/p/12.mp3')"
+                :audio="require('@/assets/curso/audio/1/p/50.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )
           
