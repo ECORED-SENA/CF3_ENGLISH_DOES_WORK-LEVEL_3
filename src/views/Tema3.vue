@@ -9,36 +9,25 @@
     p(data-aos="fade-down") En el idioma inglés, existen ciertas palabras que se utilizan para unir o enlazar entre sí frases u oraciones, es decir, son conjunciones, las cuales sirven para dar más coherencia y significado a las ideas que se quieren expresar. Entre ellas, las conjunciones when y while, las cuales se utilizan en forma regular al escribir o hablar en idioma inglés. 
     .bg21    
       h5(data-aos="fade-down").text-center #[b #[i For example:]]
-      .row.justify-content-center.align-items-center.my-5
-        .col-lg-6(data-aos="fade-right")
-          .tarjeta.position-relative.rounded-0.bg19.p-3
-            .row.justify-content-center.align-items-center
-              .col-lg-6.col-5.mb-lg-0.mb-3
-                .imagen-absolute3
-                  img(data-aos='zoom-in-up')(src='@/assets/curso/temas/img56.png', alt='')
-              .col-lg-6
-                .p-2
-                  TarjetaAudio.color-acento-contenido.bg-white.mb-4(
-                    texto="When I was sleeping, they left the apartment."
-                    :audio="require('@/assets/curso/audio/3/1.mp3')"
-                    @audio-hover="mostrarIndicadorTarjetaAudio = false"
-                  )     
-                  p(data-aos="fade-down").mb-0 Cuando yo estaba durmiendo, ellos abandonaron el apartamento                 
+      .row.justify-content-center.align-items-stretch.my-5
+        .col-lg-6(data-aos="fade-right").tarjeta.position-relative.rounded-0.bg19.p-4.brwhite
+          img.img-t.img-a.mb-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/img56.png', alt='')
+          .p-2
+            TarjetaAudio.color-acento-contenido.bg-white.mb-4(
+              texto="When I was sleeping, they left the apartment."
+              :audio="require('@/assets/curso/audio/3/1.mp3')"
+              @audio-hover="mostrarIndicadorTarjetaAudio = false"
+            )     
+            p(data-aos="fade-down") Cuando yo estaba durmiendo, ellos abandonaron el apartamento                 
 
-        .col-lg-6(data-aos="fade-left")
-          .tarjeta.position-relative.rounded-0.bg20.p-3
-            .row.justify-content-center.align-items-center
-              .col-lg-6
-                .p-2
-                  TarjetaAudio.color-acento-contenido.bg-white.mb-4(
-                    texto="While I was walking, I found a bill on the floor."
-                    :audio="require('@/assets/curso/audio/3/2.mp3')"
-                    @audio-hover="mostrarIndicadorTarjetaAudio = false"
-                  )     
-                  p(data-aos="fade-down").mb-0 Mientras yo estaba caminando, encontré un billete en el piso.                          
-              .col-lg-6.col-5.mb-lg-0.mb-3
-                .imagen-absolute4
-                  img(data-aos='zoom-in-up')(src='@/assets/curso/temas/img57.png', alt='')
+        .col-lg-6(data-aos="fade-left").tarjeta.position-relative.rounded-0.bg20.p-4.brwhite
+          img.img-t.img-a.mb-3(data-aos='zoom-in-up')(src='@/assets/curso/temas/img57.png', alt='')
+          TarjetaAudio.color-acento-contenido.bg-white.mb-4(
+            texto="While I was walking, I found a bill on the floor."
+            :audio="require('@/assets/curso/audio/3/2.mp3')"
+            @audio-hover="mostrarIndicadorTarjetaAudio = false"
+          )     
+          p(data-aos="fade-down") Mientras yo estaba caminando, encontré un billete en el piso.
              
       p(data-aos="fade-down").mb-5 En este orden de ideas, al usar 
         span.r #[b #[i when ]] 
@@ -112,7 +101,7 @@
 
     Dialogo.color-primario.mb-5(:dialogo="dialogo")(data-aos="flip-down")
       template(#nombre-actividad) Arrastrar y Soltar
-      template(#titulo-actividad) Titulo de actividad - Completa la conversación.
+      template(#titulo-actividad) Completa la conversación.
       template(#descripcion-actividad) Arrastra y suelta el cada una de las palabras en el orden correcto.  
 
 </template>
@@ -155,7 +144,7 @@ export default {
           palabra: 'While',
         },
         {
-          personaje: 'cousins',
+          personaje: 'language',
           textoIng: '*** I was younger I liked to play with my cousins.',
           textoEsp: '*** era más joven, me gustaba jugar con mis primos..',
           audio: require('@/assets/curso/audio/a1/2.mp3'),
@@ -171,7 +160,7 @@ export default {
           palabra: 'While ',
         },
         {
-          personaje: 'cousins',
+          personaje: 'language',
           textoIng: 'You were resting on the sofa *** my father arrived.',
           textoEsp: 'Tú estabas descansando en el sofá *** mi padre llegó.',
           audio: require('@/assets/curso/audio/a1/4.mp3'),

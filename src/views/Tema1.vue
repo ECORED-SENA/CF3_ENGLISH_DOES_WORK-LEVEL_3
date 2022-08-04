@@ -433,7 +433,7 @@
                   TraduccionAudio.color-primario(:dialogo="dialogo15")
               .col-lg-6
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img33.png', alt='')
-
+      p(data-aos="fade-down").mb-5 Seguidamente, se presentan una serie de interrogantes respecto a la rutina diaria de trabajo de Frank. Repase y estudie las respuestas correspondientes a dichas preguntas y luego intente dar respuestas desde su propio ambiente laboral o personal: 
       .row.justify-content-center.align-items-center
         .col-lg-4
           img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img34.png', alt='') 

@@ -26,7 +26,7 @@
         .col-lg-10
           p(data-aos="fade-down").mb-0.p-2 Cabe destacar que los conectores de secuencia son muy importantes cuando se participa en un contexto académico, científico, o laboral. Además, también son utilizados en entornos informales, mediante lo cual la persona demuestra fluidez y dominio del idioma, pues, al utilizarlos para expresar sus ideas, se denota consistencia y coherencia en su discurso lingüístico, ya sea en forma oral o escrita. 
 
-    p(data-aos="fade-down").text-center.mb-5 De acuerdo con lo anterior, se encuentran conectores:
+    p(data-aos="fade-down").text-center.my-5 De acuerdo con lo anterior, se encuentran conectores:
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7 
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-left")

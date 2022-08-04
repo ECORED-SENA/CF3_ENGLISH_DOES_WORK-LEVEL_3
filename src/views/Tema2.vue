@@ -434,7 +434,7 @@
                     td.t1br #[b Persona gramatical del sujeto]
                     td.t1br #[b V. Aux (#[i to be])]
                     td.t1br #[b Sujeto]
-                    td.t1br #[b V. principal al (gerundio)] 
+                    td.t1br #[b V. principal (gerundio)] 
                     td.t1br #[b Complemento]
                     td #[b Traducción]
                   tr

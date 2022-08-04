@@ -31,7 +31,7 @@
             img(src="@/assets/template/seleccion-multiple.svg", alt="")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Oraciones en Presente simple y Presente Progresivo
+          h2 #[i Sentences in Present Simple and Present Progressive] / Oraciones en Presente Simple y Presente Progresivo
         p.mb-4 Reconocer el tiempo verbal de las oraciones.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
