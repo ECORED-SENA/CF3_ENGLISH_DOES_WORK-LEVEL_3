@@ -457,7 +457,7 @@
                   tr
                     td 3<sup>a</sup> persona: <i>He/She</i>
                     td.fst-italic is
-                    td.fst-italic you           
+                    td.fst-italic He/She           
                     td.fst-italic talking                  
                     td.fst-italic with the teacher?
                     td ¿Está él/ella hablando con el profesor?
