@@ -253,6 +253,9 @@
               .col-lg-2.col-5.mb-lg-0.mb-3.d-none.d-lg-block
                 .imagen-absolute5
                   img.img-t(data-aos='zoom-in-up')(src='@/assets/curso/temas/img92.png', alt='')
+
+    titulo-segundo.color-acento-contenido(data-aos='fade-right')
+      h2.mt-5 Actividad didáctica                   
     .row.mt-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
