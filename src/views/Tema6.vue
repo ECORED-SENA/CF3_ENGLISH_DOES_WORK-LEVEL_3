@@ -459,7 +459,23 @@
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
               )            
               p.mb-0 Afortunadamente, Mary encontró el bolso de su esposo.
-
+    .row.mt-5.justify-content-center.align-items-center.align-items-lg-stretch
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+        .tarjeta.h-100.d-flex.align-items-center.p-4
+          figure
+            img(src="@/assets/template/completar-espacios.svg", alt="")
+      .col-12.col-md-8.col-lg-9
+        .titulo-segundo
+          h2 #[i Dictation practice ]/ Práctica de dictado
+        p.mb-4 Escuchar con atención las palabras que se enuncian en el audio y escribirlas en el lugar indicado.
+        .tarjeta.actividad.p-3
+          .row.justify-content-around.align-items-center            
+            .col-sm.mb-3.mb-sm-0
+              p.fw-bold.mb-0 Escuchar y escribir palabras
+            .col-auto
+              a.boton.boton--b(:href="obtenerLink('/actividades/06/index.html')" target="_blank")
+                span Realizar
+                i.fas.fa-puzzle-piece
 </template>
 
 <script>
