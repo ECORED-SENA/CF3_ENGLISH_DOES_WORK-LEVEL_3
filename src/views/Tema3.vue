@@ -156,11 +156,11 @@ export default {
         {
           personaje: 'language',
           textoIng:
-            '*** he was living in Oregon, Jim learned the English language.',
+            '*** was living in Oregon, Jim learned the English language.',
           textoEsp:
             '*** estaba viviendo en Oregon, Jim aprendió el idioma Inglés.',
           audio: require('@/assets/curso/audio/a1/1.mp3'),
-          palabra: 'While',
+          palabra: 'While he',
         },
         {
           personaje: 'language',
@@ -172,18 +172,18 @@ export default {
         {
           personaje: 'language',
           textoIng:
-            '*** I was cooking the lunch, the children played in the garden.',
+            '*** was cooking the lunch, the children played in the garden.',
           textoEsp:
             '*** yo estaba cocinando el almuerzo, los niños jugaban en el jardín.',
           audio: require('@/assets/curso/audio/a1/3.mp3'),
-          palabra: 'While ',
+          palabra: 'While I',
         },
         {
           personaje: 'language',
           textoIng: 'You were resting on the sofa *** my father arrived.',
           textoEsp: 'Tú estabas descansando en el sofá *** mi padre llegó.',
           audio: require('@/assets/curso/audio/a1/4.mp3'),
-          palabra: 'when ',
+          palabra: 'when',
         },
       ],
     },
